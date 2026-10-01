@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/en:/",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/en/:/en/",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/fr/:/fr/",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/fr:/fr",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/es/:/es/",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/es:/es",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/ja/:/ja/",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/ja:/ja",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/de/:/de/",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/language-masters/de:/de",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/configuration:/.helix/config.json",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/metadata:/metadata.json",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/redirects:/redirects.json",
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/jhanley/jhdemo-wcsc-20261001-172753/",
+    "/content/dam/jhanley/jhdemo-wcsc-20261001-172753/"
   ]
 }
